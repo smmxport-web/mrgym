@@ -1,0 +1,332 @@
+{
+    "users": [
+        {
+            "id": "user_1765920784_2594",
+            "name": "Clea Gaultier",
+            "phone": "01208522013",
+            "governorate": "الوادي الجديد",
+            "password": "osaosa150??",
+            "created_at": "2025-12-16 21:33:04",
+            "workouts": [],
+            "saved_workouts": [
+                "1"
+            ],
+            "saved_workouts_date": "2025-12-16 21:52:08"
+        },
+        {
+            "id": "user_1766009322_4385",
+            "name": "Osama elhosene",
+            "phone": "01080144075",
+            "governorate": "بورسعيد",
+            "password": "OsaOsa180??!",
+            "created_at": "2025-12-17 22:08:42",
+            "workouts": [
+                {
+                    "name": "تمرين الصدر المتكامل",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "00:28",
+                    "duration": 60,
+                    "calories": 350,
+                    "effortLevel": 5,
+                    "notes": "تم إضافة هذا التمرين من القالب",
+                    "exercises": [
+                        {
+                            "name": "ضغط الصدر",
+                            "sets": 4,
+                            "reps": 12,
+                            "weight": null
+                        },
+                        {
+                            "name": "ضغط مائل",
+                            "sets": 3,
+                            "reps": 10,
+                            "weight": null
+                        },
+                        {
+                            "name": "طيران بالدمبل",
+                            "sets": 3,
+                            "reps": 15,
+                            "weight": null
+                        },
+                        {
+                            "name": "تمرين الترايسبس",
+                            "sets": 3,
+                            "reps": 12,
+                            "weight": null
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:28:37.468Z",
+                    "isTemplate": true,
+                    "templateId": "chest_day",
+                    "id": "workout_1766010517_9630",
+                    "created_at": "2025-12-17 22:28:37"
+                },
+                {
+                    "name": "تمرين الصدر المتكامل",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "00:28",
+                    "duration": 60,
+                    "calories": 350,
+                    "effortLevel": 5,
+                    "notes": "تم إضافة هذا التمرين من القالب",
+                    "exercises": [
+                        {
+                            "name": "ضغط الصدر",
+                            "sets": 4,
+                            "reps": 12,
+                            "weight": null
+                        },
+                        {
+                            "name": "ضغط مائل",
+                            "sets": 3,
+                            "reps": 10,
+                            "weight": null
+                        },
+                        {
+                            "name": "طيران بالدمبل",
+                            "sets": 3,
+                            "reps": 15,
+                            "weight": null
+                        },
+                        {
+                            "name": "تمرين الترايسبس",
+                            "sets": 3,
+                            "reps": 12,
+                            "weight": null
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:28:38.699Z",
+                    "isTemplate": true,
+                    "templateId": "chest_day",
+                    "id": "workout_1766010518_7469",
+                    "created_at": "2025-12-17 22:28:38"
+                },
+                {
+                    "name": "تمرين الصدر المتكامل",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "00:28",
+                    "duration": 60,
+                    "calories": 350,
+                    "effortLevel": 5,
+                    "notes": "تم إضافة هذا التمرين من القالب",
+                    "exercises": [
+                        {
+                            "name": "ضغط الصدر",
+                            "sets": 4,
+                            "reps": 12,
+                            "weight": null
+                        },
+                        {
+                            "name": "ضغط مائل",
+                            "sets": 3,
+                            "reps": 10,
+                            "weight": null
+                        },
+                        {
+                            "name": "طيران بالدمبل",
+                            "sets": 3,
+                            "reps": 15,
+                            "weight": null
+                        },
+                        {
+                            "name": "تمرين الترايسبس",
+                            "sets": 3,
+                            "reps": 12,
+                            "weight": null
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:28:38.950Z",
+                    "isTemplate": true,
+                    "templateId": "chest_day",
+                    "id": "workout_1766010518_3687",
+                    "created_at": "2025-12-17 22:28:38"
+                },
+                {
+                    "name": "تمرين الصدر المتكامل",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "00:28",
+                    "duration": 60,
+                    "calories": 350,
+                    "effortLevel": 5,
+                    "notes": "تم إضافة هذا التمرين من القالب",
+                    "exercises": [
+                        {
+                            "name": "ضغط الصدر",
+                            "sets": 4,
+                            "reps": 12,
+                            "weight": null
+                        },
+                        {
+                            "name": "ضغط مائل",
+                            "sets": 3,
+                            "reps": 10,
+                            "weight": null
+                        },
+                        {
+                            "name": "طيران بالدمبل",
+                            "sets": 3,
+                            "reps": 15,
+                            "weight": null
+                        },
+                        {
+                            "name": "تمرين الترايسبس",
+                            "sets": 3,
+                            "reps": 12,
+                            "weight": null
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:28:39.131Z",
+                    "isTemplate": true,
+                    "templateId": "chest_day",
+                    "id": "workout_1766010519_7003",
+                    "created_at": "2025-12-17 22:28:39"
+                },
+                {
+                    "name": "تمرين الصدر المتكامل",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "00:28",
+                    "duration": 60,
+                    "calories": 350,
+                    "effortLevel": 5,
+                    "notes": "تم إضافة هذا التمرين من القالب",
+                    "exercises": [
+                        {
+                            "name": "ضغط الصدر",
+                            "sets": 4,
+                            "reps": 12,
+                            "weight": null
+                        },
+                        {
+                            "name": "ضغط مائل",
+                            "sets": 3,
+                            "reps": 10,
+                            "weight": null
+                        },
+                        {
+                            "name": "طيران بالدمبل",
+                            "sets": 3,
+                            "reps": 15,
+                            "weight": null
+                        },
+                        {
+                            "name": "تمرين الترايسبس",
+                            "sets": 3,
+                            "reps": 12,
+                            "weight": null
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:28:39.288Z",
+                    "isTemplate": true,
+                    "templateId": "chest_day",
+                    "id": "workout_1766010519_4943",
+                    "created_at": "2025-12-17 22:28:39"
+                },
+                {
+                    "name": "تتتت",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "22:29",
+                    "duration": 60,
+                    "calories": 390,
+                    "heartRateAvg": null,
+                    "heartRateMax": null,
+                    "effortLevel": "8",
+                    "notes": "",
+                    "exercises": [
+                        {
+                            "name": "ععتتتا",
+                            "sets": 6,
+                            "reps": 15,
+                            "weight": 20,
+                            "order": 1
+                        },
+                        {
+                            "name": "تاللا",
+                            "sets": 3,
+                            "reps": 2,
+                            "weight": 2,
+                            "order": 2
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:31:12.852Z",
+                    "id": "workout_1766010673_4453",
+                    "created_at": "2025-12-17 22:31:13"
+                },
+                {
+                    "name": "تتتت",
+                    "type": "chest",
+                    "date": "2025-12-17",
+                    "startTime": "22:29",
+                    "duration": 60,
+                    "calories": 390,
+                    "heartRateAvg": null,
+                    "heartRateMax": null,
+                    "effortLevel": "8",
+                    "notes": "",
+                    "exercises": [
+                        {
+                            "name": "ععتتتا",
+                            "sets": 6,
+                            "reps": 15,
+                            "weight": 20,
+                            "order": 1
+                        },
+                        {
+                            "name": "تاللا",
+                            "sets": 3,
+                            "reps": 2,
+                            "weight": 2,
+                            "order": 2
+                        }
+                    ],
+                    "userId": "user_1766009322_4385",
+                    "createdAt": "2025-12-17T22:31:14.437Z",
+                    "id": "workout_1766010674_1315",
+                    "created_at": "2025-12-17 22:31:14"
+                }
+            ],
+            "saved_workouts": [
+                "1"
+            ],
+            "saved_workouts_date": "2025-12-17 22:36:06"
+        }
+    ],
+    "workouts": [],
+    "ads": [
+        {
+            "id": "ad1",
+            "title": "خصم 20% على الاشتراك السنوي",
+            "description": "استفد من العرض لفترة محدودة واحصل على خصم 20% عند الاشتراك السنوي",
+            "type": "عرض خاص",
+            "image": "",
+            "link": "#",
+            "buttonText": "احصل على الخصم",
+            "active": true
+        },
+        {
+            "id": "ad2",
+            "title": "جلسات تدريب شخصي",
+            "description": "احصل على جلسات تدريب شخصي مع أفضل المدربين",
+            "type": "خدمة جديدة",
+            "image": "",
+            "link": "#",
+            "buttonText": "احجز الآن",
+            "active": true
+        }
+    ],
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}
